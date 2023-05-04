@@ -1,1 +1,2 @@
 Esse é um teste para o comando git diff
+Verificando diferenças
