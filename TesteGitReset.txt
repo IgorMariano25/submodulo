@@ -1,0 +1,1 @@
+Teste do comando git reset em conjunto com o comando git reflog
